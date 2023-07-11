@@ -1,3 +1,3 @@
-module github.com/kwtryo/studygo5
+module github.com/kngnkg/studygo5
 
 go 1.19
